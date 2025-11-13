@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I build gameplay systems and prototypes in Unity
+      text: I Build Gameplay Systems and Prototypes in Unity
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
