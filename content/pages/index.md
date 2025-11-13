@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: 'Student Developer Focused on Clean, Modular Mechanics'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      I’m a Unity game developer who enjoys creating flexible,
+      inspector-friendly systems. I focus on building modular mechanics, clean
+      C# code, and small prototypes that help me learn gameplay programming step
+      by step.
     actions:
       - label: Get started
         altText: ''
