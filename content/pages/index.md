@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Game Devloper
       color: text-primary
       type: Badge
     elementId: ''
