@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: About Me →
+      - label: About Me
         altText: ''
         url: /
         showIcon: true
