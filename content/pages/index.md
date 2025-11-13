@@ -36,9 +36,9 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Game Developer
-      color: text-primary
       type: Badge
+      label: This is a badge
+      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
