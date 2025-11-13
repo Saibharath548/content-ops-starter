@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to
+      text: I build gameplay systems and prototypes in Unity
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
