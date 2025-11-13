@@ -14,7 +14,7 @@ sections:
       C# code, and small prototypes that help me learn gameplay programming step
       by step.
     actions:
-      - label: Get started
+      - label: See My Projects
         altText: ''
         url: /
         showIcon: false
