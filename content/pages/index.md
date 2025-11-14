@@ -64,10 +64,9 @@ sections:
       - type: FeaturedItem
         title: Modular Gameplay Systems
         subtitle: Flexible and Reusable
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I build mechanics and systems that can be toggled, extended, and
+          reused easily through clean, modular C# code.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
