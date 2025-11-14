@@ -92,9 +92,7 @@ sections:
       - title: Inspector-Friendly Controls
         subtitle: Easy to Tweak and Customize
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          I design scripts with clear inspector variables, making it simple for developers to adjust values and enable mechanics without touching code.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
