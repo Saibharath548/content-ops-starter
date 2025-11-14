@@ -53,7 +53,7 @@ sections:
       color: text-primary
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: What I Do Best
       color: text-dark
       styles:
         self:
