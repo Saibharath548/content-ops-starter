@@ -112,12 +112,10 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Fast Prototyping & Learning
+        subtitle: Always Improving
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          I quickly build prototypes, follow tutorials, and extend them to understand gameplay programming step by step.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
