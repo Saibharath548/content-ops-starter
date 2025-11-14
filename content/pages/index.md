@@ -62,7 +62,7 @@ sections:
     subtitle: My main focus as a growing gameplay developer
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Modular Gameplay Systems
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
