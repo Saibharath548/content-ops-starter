@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Modular Gameplay Systems
-        subtitle: Numbers Done
+        subtitle: Flexible and Reusable
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
