@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: My main focus as a growing gameplay developer
     items:
       - type: FeaturedItem
         title: 500k
